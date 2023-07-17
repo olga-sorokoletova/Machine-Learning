@@ -37,7 +37,7 @@ A detailed description of the implemented solution: how data have been preproces
 
 ## Implementation
 
-The Jupiter Notebook with the Python implementation of the aforementioned models is attached as [code.ipynb](https://github.com/olga-sorokoletova/Machine-Learning/blob/main/Homework%202/code.ipynb).
+The Jupiter Notebook with the Tensorflow implementation of the aforementioned models is attached as [code.ipynb](https://github.com/olga-sorokoletova/Machine-Learning/blob/main/Homework%202/code.ipynb).
 
 ## Results
 
